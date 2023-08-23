@@ -1,0 +1,37 @@
+body {
+    background-color: aliceblue;
+}
+
+.box {
+    background-color: white;
+}
+
+.box img {
+    height: 70%;
+}
+
+
+
+.dib {
+    display: inline-block;
+}
+
+#playingTo {
+    background-color: aliceblue;
+    padding: 2px;
+    border: 1px solid rgb(195, 205, 214);
+    border-radius: 0.7em;
+
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.disable {
+    opacity: 0.7;
+}
